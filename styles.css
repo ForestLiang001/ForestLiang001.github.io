@@ -18,6 +18,7 @@
   --radius: 8px;
   --shadow: 0 30px 110px rgba(0, 0, 0, 0.48);
   --max: 1180px;
+  --chrome-max: 1480px;
 }
 
 * {
@@ -64,7 +65,7 @@ a {
   align-items: center;
   justify-content: flex-end;
   gap: 30px;
-  padding: 8px clamp(18px, 4vw, 54px);
+  padding: 8px max(20px, calc((100vw - var(--chrome-max)) / 2));
   background: rgba(3, 7, 18, 0.84);
   color: #dcefff;
   font-size: 0.9rem;
@@ -88,7 +89,7 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 16px clamp(18px, 4vw, 54px);
+  padding: 16px max(20px, calc((100vw - var(--chrome-max)) / 2));
   color: #fff;
   background: rgba(4, 9, 18, 0.38);
   border-bottom: 1px solid rgba(22, 200, 255, 0.1);
@@ -376,9 +377,13 @@ a {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
+  width: min(var(--chrome-max), calc(100% - 40px));
+  margin-inline: auto;
   background: rgba(3, 7, 18, 0.84);
   border-top: 1px solid rgba(22, 200, 255, 0.2);
   border-bottom: 1px solid rgba(22, 200, 255, 0.2);
+  border-left: 1px solid rgba(22, 200, 255, 0.12);
+  border-right: 1px solid rgba(22, 200, 255, 0.12);
 }
 
 .trust-band div {
@@ -404,6 +409,11 @@ a {
 
 .section {
   padding: clamp(72px, 9vw, 120px) clamp(20px, 5vw, 72px);
+}
+
+.section > .section-kicker {
+  width: min(var(--max), 100%);
+  margin-inline: auto;
 }
 
 .intro,
