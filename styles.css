@@ -719,16 +719,16 @@ h3 {
 .visual-proof {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  width: min(980px, calc(100% - 40px));
+  gap: 18px;
+  width: min(var(--max), calc(100% - 40px));
   margin: 0 auto;
-  padding: 56px 0;
+  padding: 64px 0;
   background: transparent;
 }
 
 .visual-proof img {
   width: 100%;
-  height: clamp(200px, 20vw, 280px);
+  height: clamp(230px, 24vw, 340px);
   object-fit: cover;
   object-position: left top;
   border: 1px solid rgba(22, 200, 255, 0.18);
@@ -929,7 +929,7 @@ h3 {
   }
 
   .visual-proof img {
-    height: 210px;
+    height: 240px;
   }
 
   .site-footer {
