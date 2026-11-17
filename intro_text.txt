@@ -1,0 +1,441 @@
+--- Slide 1 ---
+3iwom
+IT Co., Limited
+Introduction
+Present
+by
+Forest
+Leung
+--- Slide 2 ---
+TABLE OF
+CONTENTS
+Vision, History &  Advantage
+4 Contexts of Business Scope
+Low-code Platform and Digital Solutions
+Major Clients
+01
+03
+02
+04
+ABOUT US
+OUR SERVICES
+OUR
+SOLUTION
+OUR
+CLIENT
+--- Slide 3 ---
+ABOUT
+US
+01
+--- Slide 4 ---
+-
+3
+iwom
+DREAM. CREATE. SUCCEED
+LET'S BUILD SOMETHING TOGETHER
+--- Slide 5 ---
+WHO ARE
+WE?
+Qualifications
+Holds ISO27001, ISO20000, and ISO9001 certifications
+Serving numerous Fortune 500 and well-known enterprises
+C
+ooperat
+e
+with world-renowned technology companies
+R
+ich R&D capabilities for large-scale software development
+P
+rofound industry experience in
+R
+eal
+e
+state,
+R
+etail
+, M
+anufacturing
+sectors
+C
+ustomized enterprise application development
+L
+ow-code platform development
+D
+igital transformation consulting
+P
+rofessional IT service outsourcing.
+Profession
+Partners
+Services
+3iwom
+IT Co., Limited
+is headquartered in Guangzhou
+and
+Hong Kong
+.
+For
+13
+years since
+2012
+,
+3iwom
+has set up
+two
+R&D centers
+in China
+, firmly rooted in the digital tech
+nology
+industry
+.
+--- Slide 6 ---
+WHAT SETS US
+APART
+?
+P
+rofessional
+A
+bility
+Core s
+ales, product and technical personnel are all from Fortune 500 companies such as Siemens, HSBC,
+PCCW
+and Country Garden
+etc
+Witnessed fast digital development periods of multiple traditional enterprises
+Possess technical experience in supporting business volumes ranging from billions to tens of billions
+P
+ossess a mature and stable low-code development platform. All products are developed based on this.
+W
+ith
+more than
+80% of requirements achievable through
+low
+-code
+, project cost and time can be reduced significantly
+.
+E
+xtensive
+Experience
+Low
+-
+Code
+Capalilities
+--- Slide 7 ---
+OUR
+SERVICES
+0
+2
+--- Slide 8 ---
+WHAT DO WE
+OFFER
+?
+L
+ow
+-Code Platform
+Our
+NexaCo
+platform is a  mature and stable low-code development platform. Able to assist fast development and delivery with more than 80% of requirements achievable through low-code
+C
+ustomization
+Provide comprehensive and personalized digital consulting services
+on Real Estate, Retail, Manufacturing, Pharmacy
+，
+Eduation indutries
+Provide customized development services for business systems, mobile  and WeChat applications
+O
+utsourcing
+Offer various IT outsourcing services including project outsourcing, staff outsourcing and offshore development
+Digital Solution
+Consultant
+--- Slide 9 ---
+Service model
+Project outsourcing
+Offshore development
+Manpower outsourcing
+The project content and cycle
+are fixed
+Fixed price items
+According to the needs of customers, submit the project on time High-quality system, and be responsible for the quality of the project.
+The project form is relatively flexible
+There is no fixed project content and period
+Provide technical personnel that meet customer requirements, ensure the stability and enthusiasm of personnel, and be responsible for personnel ability and stability.
+The project content is not fixed and the cycle is long, the response requirements are high, and a stable team is required
+Identify technical personnel who meet the requirements, work according to customer requirements and submit project results within a fixed cycle.
+Responsible for the ability and stability of the staff.
+--- Slide 10 ---
+OUR
+SOLUTIONS
+0
+3
+--- Slide 11 ---
+Low
+-
+Code
+PLATFORM
+--- Slide 12 ---
+OUR
+NexaCo
+Extensibility-first
+Low-Code
+Platform
+Total control, infinite extensibility, empower your team to swiftly adapt to changes and significantly reduce costs. Skip years of development and millions in investment
+- just deploy
+NexaCo
+in minutes.
+The design principle of
+NexaCo
+is:
+80%
+of requirements are achieved through
+low
+-code solutions,
+20%
+are implemented through extended development.
+--- Slide 13 ---
+OUR
+NexaCo
+Who NexaCo is for
+Your development team is facing these serious challenges as they deliver various business systems for either internal or client use.
+Frequent Changes in Business Needs
+Tight and Urgent Delivery Deadlines
+Slow and Lengthy Development Processes
+High Personnel Costs
+--- Slide 14 ---
+HOW
+NexaCo
+GETS IT DONE
+Data model-driven
+, separate
+‘
+user interface
+’
+from
+‘
+data structure
+’
+Compared to form and table-driven approaches, data model-driven development offers uncapped development capabilities.
+Decouple data and UI
+Multiple blocks and actions can be created for the same table and record in any quantity and form
+Support main database, external databases, and third-party APIs as data sources
+--- Slide 15 ---
+HOW
+NexaCo
+GETS IT DONE
+What you see is what you get
+, incredibly easy to use
+NexaCo
+can develop complex and distinctive business systems, yet its usage is remarkably simple.
+One-click switch between usage mode and configuration mode
+Pages serve as a canvas where various blocks and actions are placed to compose suitable interfaces, much like Notion
+The UI configuration mode is designed for ordinary users, not programmers
+--- Slide 16 ---
+HOW
+NexaCo
+GETS IT DONE
+Everything is implemented as
+plugins
+, designed for extension development
+In complex and changing business scenarios, relying solely on piling up
+low-
+code capabilities to meet all requirements is ineffective. NexaCo enables extension development, expanding plugins freely to meet diverse needs.
+Adopts a microkernel architecture where all functionalities are plugins
+Plugins are ready to use upon installation
+Whether they are pages, blocks, actions, APIs, or data sources, new plugins can be developed to meet new requirements
+--- Slide 17 ---
+HOW
+NexaCo
+GETS IT DONE
+Using
+mainstream
+technology stacks
+NexaCo
+'s foundational plugins are entirely open-source, ensuring absolute transparency and controllability.
+Written in TypeScript
+Utilizes mainstream technology stacks such as Node.js, React, Koa, and more
+Defines only standard interfaces, avoiding private DSLs
+Extremely simple and lightweight, runs on a single low-spec server, and is extensible with one person development management.
+Logging &
+Monitoring
+NexaCo is not a black box; it provides detailed logging and monitoring alert infrastructure.
+The logging plugin offers interface request logs and system operation logs
+Supporting configurations such as log levels, rolling policies, size, and print formats
+A series of telemetry plugins integrate facilities like OpenTelemetry and Prometheus, enabling developers to monitor any metric
+--- Slide 18 ---
+HOW
+NexaCo
+GETS IT DONE
+Integrate
+with third-party systems
+NexaCo offers multiple ways to integrate with third-party systems
+.
+Using third-party databases or u
+tilizing APIs from other systems
+as data sources
+Single Sign-On (SSO) for seamless authentication
+Integrate seamlessly with third-party systems, becoming one entity
+Implement multi-applications and parent-child applications among multiple NexaCo applications
+The
+right way
+to use
+NexaCo
+Low
+-code is not omnipotent, and neither is
+NexaCo
+Technical teams use NexaCo as infrastructure to dramatically improve delivery speed and efficiency
+Technical teams can extend the capabilities of NexaCo with extension plugins, and non-developers can build on top of it without code
+Use NexaCo to develop business systems and internal tools ranging from simple to complex
+Deploy NexaCo on your own servers, use it, and take full control
+--- Slide 19 ---
+DIGITAL
+SOLUTIONS
+--- Slide 20 ---
+ECS
+SOLUTION
+Finance
+（Cost Control and Reimbursement Management）
+Scope of application:
+A
+pplicable to various small and medium - sized enterprises, especially those that require refined
+expense
+management and reimbursement management.
+F
+eature
+s:
+Accounts Receivable and Payable Management
+Contract Management
+Expense Reimbursement
+Invoice Management
+Approval Process
+Data Analysis
+--- Slide 21 ---
+CRM
+SOLUTION
+CRM
+（
+Customer Relationship
+Management）
+Scope of application:
+A
+pplicable to enterprises that systematically manage customer relationships, especially sales - oriented enterprises.
+F
+eature
+s:
+Product Management
+Customer
+Management
+Lead Management
+Opportunity
+Management
+Order and Contract Management
+Performance Management
+Financial Integration
+Approval Process
+--- Slide 22 ---
+HRM
+SOLUTION
+HRM
+（
+Human Resource
+Management）
+Scope of application:
+Applicable to enterprises seeking efficient HR management and process standardization, especially those with large
+workforce
+, complex structures, or high talent-related demands
+.
+F
+eature
+s:
+Employee
+Prof
+iles
+Attendance Management
+Recruitment Management
+Onboarding, Transfer, Promotion
+,
+Offboarding
+Compensation Management
+Performance Management
+O
+rganizational
+S
+tructure
+Approval Process
+--- Slide 23 ---
+EHS
+SOLUTION
+EHS
+（
+Environment, Health, Safty Management
+）
+Scope of application:
+Applicable to enterprises that prioritize EHS management, aiming to achieve environmental protection, ensure employee health and safety, and enhance compliance through systematic approaches
+.
+F
+eature
+s:
+System Management
+Risk Management
+Compliance Management
+Emergency Management
+Accident Management
+Operation Management
+--- Slide 24 ---
+MES
+SOLUTION
+MES
+（
+Manufacturing Execution Management
+）
+Scope of application:
+Applicable to all manufacturing enterprises aiming to optimize production processes, boost production efficiency and enhance quality control
+.
+F
+eature
+s:
+Production Scheduling
+Document
+Management
+Quality
+Management
+Labor Management
+Resource Allocation and
+Management
+Production Monitoring and Control
+Inventory Management
+Data Analysis
+--- Slide 25 ---
+WMS
+SOLUTION
+WMS
+（
+Warehouse Management
+）
+Scope of application:
+Applicable to all enterprises seeking to optimize warehousing operations and enhance inventory management efficiency, especially logistics and distribution companies, e - commerce enterprises, and retailers.
+F
+eature
+s:
+Inventory Management
+Order Processing
+Layout and Space
+Management
+Labor Management
+Supplier Management
+Product Management
+--- Slide 26 ---
+OUR
+CLIENTS
+0
+4
+--- Slide 27 ---
+OUR
+CLIENTS
+--- Slide 28 ---
+THANKS!
+Contact:
+:
+forest
+@3iwom.com
+: +852 54338480
++86 18602036896
+:
+www.3iwom.com
